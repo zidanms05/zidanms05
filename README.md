@@ -1,5 +1,5 @@
 
-### Hi, I'm Zidan 👋
+### Hi, I'm Zidan :)
 
 I'm a CS undergrad interested in AI systems, backend engineering, and building tools that go beyond basic chat interfaces.
 
